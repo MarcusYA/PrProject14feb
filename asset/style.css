@@ -6,18 +6,23 @@
     border:0;
 }
 
-.container {
+nav {
+    background-color: grey;
     display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 20px;
 }
 
 .hero {
-    background-image: ;
+    background-image: url(asset/images/the-activation-foundation-website-favicon-white.png);
+    background-size: cover;
 }
 
 .name {
-
+    
 }
 
 .menu {
-
+    
 }
